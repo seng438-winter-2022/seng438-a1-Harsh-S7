@@ -6,7 +6,7 @@
 |-----------------|---|
 | Student Names:  |   |
 | Harshit Sharma  | 11311001 |
-|                 |   |
+| Heidi Toews     | 30094995 |
 |                 |   |
 
 **Table of Contents**
@@ -32,8 +32,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+The goal of this lab assignment was to learn to use a bug tracking platform and familiarize ourselves with exploratory testing, manual scripted testing, and regression testing. Before this lab, we understood the basics of these types of testing, and this lab has provided us an opportunity to gain more in depth knowledge and practical experience using them. We used the bug tracking platform Backlog, and all logged in to the same account to add bugs. We then split into pairs to perform exploratory testing and manual scripted testing of the system. The plan for exploratory testing is outlined in section 2. The manual scripted testing was performed using the test cases provided in Appendix C of the lab document. The exploratory and manual scripted testing were both performed on version 1.0 of the system. We then performed regression testing on version 1.1 of the system, where we first checked to see if the defects from version 1.0 still existed, and then performed manual scripted testing again, using the same test cases from Appendix C that we used for version 1.0. 
 
 # High-level description of the exploratory testing plan
 
