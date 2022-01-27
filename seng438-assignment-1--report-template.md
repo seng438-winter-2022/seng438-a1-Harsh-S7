@@ -43,7 +43,7 @@ Scripted testing on the other hand follows a well-documented set of test cases a
 
 When comparing the two, the exploratory testing requires an in-depth knowledge of the system at hand as the tester must understand the requirements of the system while in the scripted test, the tester can overcome the lack of domain knowledge through the use of the well-document test cases and test steps. Documentation in the exploratory testing is sorely lacking as there is only a rough plan in phase while scripted tested has written test that the tester must follow. Exploratory requires little to no time before testing occurs while scripted testing is time-intensive as the tester must perform a rigid set of instructions. Exploratory testing requires no preparation only a rough plan while scripted testing requires significant investment in preparing test scripts and documentation. Exploratory testing is difficult to reproduce due to its unrestricted nature while in scripted testing the bugs are easily reproduced. Exploratory testing focuses on the design of the system while scripted testing focuses on the requirements of the system. 
 
-For comprehensive testing, it is imperative to test the system under both conditions to ensure the system is of the highest standard. 
+For comprehensive testing, it is imperative to test the system under both conditions to ensure the system is of the highest quality. 
 
 # Comparison of exploratory and manual functional testing
 
