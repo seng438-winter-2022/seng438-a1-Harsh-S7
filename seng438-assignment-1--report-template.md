@@ -62,7 +62,14 @@ Text…
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+Through our teamwork we have learned that it is imperative for software testing to be done extensively and for it to be done by multiples groups. As  during the exploratory testing phase, we had realized that the 2 pairs in our group had undertaken completely different strategies while one chose to test out the features collectively the other pair had decided to utilize the app as a consumer would. 
+
+The difficulties on this lab were trying to reproduce the bugs that we had found within the exploratory testing phase as during the test, we were trying to follow the path of a consumer rather than following a rigid path.
+
+During this phase, we had learned that it is important for every step to be documented during each phase as some bugs are harder to reproduce that others and thus documentation will be useful in trying to reproduce the bugs at a later time or in a later version. 
+
+We also had a challenge of trying to schedule a team meeting and testing session as during the week, each of the group member was constantly trying to juggle academics, extracurricular activities and their personal lives. We overcame this hurdle through the use of Google Calendar as we had combined all of our calendars and found time blocks which were available for everyone.
+
 
 # Comments/feedback on the lab and lab document itself
 
