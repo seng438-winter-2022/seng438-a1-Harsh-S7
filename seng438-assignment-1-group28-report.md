@@ -36,7 +36,29 @@ The goal of this lab assignment was to learn to use a bug tracking platform and 
 
 # High-level description of the exploratory testing plan
 
-Text…
+The plan is simple fairly simple consisting of easiablly replicable stages. The program has roughly 10 processes and functionalities depending on how you define a function. The functions are: 
+Entering the amount of bills that the ATM initially has, powering on and off the system, entering a user, making deposits, withdrawing money, transferring money between accounts, checking the ballance in each account, log of all transactions, receipt of transactions,and having 3 different types of accounts (savings, checking and money market).
+
+The plan will explore each of these functionalities for the 2 users given. The process of testing the functionalities goes as follows:
+
+1.Turn on the ATM and enter 200 bills, this number gives alot of flexibility when testing.
+2.Enter $20 for current cash on hand. 
+3.Press insert and enter the information of user 1 but enter the wrong pin several times.
+4.Enter correct information and start pressing numbers that are not affiliated with any transaction type.
+5.Start withdrawing various amounts of funds from the checking account and again press numbers not associated with any amount given.
+6.Deposit various amounts of money.
+7.Go back and start withdrawing money again, see if any changes have occurred.
+8.Repeat the steps 5-7 with savings account.
+9.If possible try steps 5-7 with money market account.
+10.Transfer money from savings to checking and repeat the steps 5-7.
+11.Transfer money from money market and repeat steps 5-7.
+12.Check the current balance of all available accounts.
+13.Check log.
+14.Print receipt.
+15.Power off the system
+16.Repeat all above steps with user 2.
+
+This plan will allow for all functionality to be tested and can show any errors found in major processes as well as minor miss-inputs.
 
 # Comparison of exploratory and manual functional testing
 
@@ -56,7 +78,7 @@ A detailed list of the bugs discovered can be found in the Excel file in the Git
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+The pair testing was done in a simple manor that fairly distributes the work. The group members were split into 2 pairs with Muhammad and Shamis making one pair and Heidi and Harshit making another. The way the pairs worked is one will go through the program and try to find errors while the other watches and ensures that any mistake is caught. After a defect is found, the pair switches roles and repeats the process. This means that each member gets access to the program and gains experience in finding mistakes but also gets experience by observing and finding mistakes from an indirect role.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
