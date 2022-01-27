@@ -53,7 +53,8 @@ Text…
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+There was some variation in the bugs found in the different types of testing. Bugs that were found in both types of testing were issues the withdrawal and deposit amounts, and problem with typing an incorrect pin. Many of the other bugs we discovered were only noticed during one type of testing – for example, exploratory testing did not discover that $0.50 is removed from each account when performing a transfer, while manual scripted testing did not discover that the off button is unresponsive during transactions. 
+A detailed list of the bugs discovered can be found in the Excel file in the GitHub repository. 
 
 # How the pair testing was managed and team work/effort was divided 
 
