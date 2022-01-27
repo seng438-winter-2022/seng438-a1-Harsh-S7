@@ -2,10 +2,10 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
+| Group \#:       |    28    |
 |-----------------|---|
 | Student Names:  |   |
-|                 |   |
+| Harshit Sharma  | 11311001 |
 |                 |   |
 |                 |   |
 
