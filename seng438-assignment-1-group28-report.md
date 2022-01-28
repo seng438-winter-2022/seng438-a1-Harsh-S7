@@ -7,7 +7,7 @@
 | Student Names:  |   |
 | Harshit Sharma  | 11311001 |
 | Heidi Toews     | 30094995 |
-|                 |   |
+| Muhammad Khan   | 30092202 |
 
 **Table of Contents**
 
